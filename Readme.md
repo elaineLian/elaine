@@ -1,2 +1,2 @@
 # practice
-* get [JSON] value (https://elainelian.github.io/getJSONvalue)
+* get JSON value. see [JSON](https://elainelian.github.io/getJSONvalue)
